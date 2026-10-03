@@ -1,6 +1,6 @@
 ---
 name: photo-poster-studio
-description: Turn supplied photographs into separate art-directed posters using a catalog of editorial, cinematic, modernist, print, paper-craft, and archival styles. Use for photo-to-poster transformations, editorial covers, exhibition graphics, keepsake posters, or reusable visual treatments; do not use for ordinary photo retouching or multi-photo collages unless a selected style explicitly permits them.
+description: Turn supplied photographs into separate art-directed posters using a catalog of editorial, cinematic, modernist, print, paper-craft, archival, pixel-art, manga, sculptural, ink-wash, relief-print, and neon styles. Use for photo-to-poster transformations, editorial covers, exhibition graphics, keepsake posters, game-inspired art, or reusable visual treatments; do not use for ordinary photo retouching or multi-photo collages unless a selected style explicitly permits them.
 ---
 
 # Photo Poster Studio
@@ -19,6 +19,12 @@ Match styles using these signals:
 - Energetic, musical, youthful, event-led, or deliberately retro: `risograph-pulse`
 - Warm, personal, family, pet, food, craft, or travel-journal: `paper-cut-diary`
 - Exhibition, artwork, object study, historical, documentary, or archival: `museum-archive`
+- Retro game, sprite, 8-bit, 16-bit, isometric, or RPG-interface: `pixel-game-poster`
+- Black-and-white drama, action, expressive portrait, or comic energy: `manga-screentone`
+- Cute tactile object, character, food, pet, or miniature scene: `clay-diorama`
+- Quiet landscape, botanical, contemplative portrait, or East Asian atmosphere: `modern-ink-wash`
+- Bold portrait, music, protest, folk, or high-contrast handmade print: `linocut-bold`
+- Night city, technology, performance, vehicle, or futuristic mood: `neon-future`
 
 Available styles:
 
@@ -28,6 +34,12 @@ Available styles:
 - `risograph-pulse`: A 3:4 high-energy print poster using two or three inks, coarse halftones, paper grain, and controlled registration drift. Read [references/styles/risograph-pulse.md](references/styles/risograph-pulse.md).
 - `paper-cut-diary`: A 4:5 tactile keepsake poster combining a faithful photo window with paper-cut shapes, tape, handwritten micro-notes, and warm negative space. Read [references/styles/paper-cut-diary.md](references/styles/paper-cut-diary.md).
 - `museum-archive`: A 3:4 exhibition poster that treats the photograph as a catalogued artifact with generous margins, quiet labeling, and archival restraint. Read [references/styles/museum-archive.md](references/styles/museum-archive.md).
+- `pixel-game-poster`: A hard-edged pixel-art poster with 8-bit, 16-bit, isometric, and RPG-interface substyles, limited palettes, and no anti-aliasing. Read [references/styles/pixel-game-poster.md](references/styles/pixel-game-poster.md).
+- `manga-screentone`: A 3:4 black-and-white manga poster using controlled screentones, ink contours, and expressive motion without copying an existing franchise. Read [references/styles/manga-screentone.md](references/styles/manga-screentone.md).
+- `clay-diorama`: A 4:5 handcrafted clay miniature treatment with simplified but recognizable subjects, tactile materials, and a restrained diorama set. Read [references/styles/clay-diorama.md](references/styles/clay-diorama.md).
+- `modern-ink-wash`: A 3:4 contemporary ink-wash poster with expressive brush economy, large paper space, and optional restrained mineral color. Read [references/styles/modern-ink-wash.md](references/styles/modern-ink-wash.md).
+- `linocut-bold`: A 3:4 relief-print poster built from carved marks, strong silhouettes, and one to three flat inks rather than halftone texture. Read [references/styles/linocut-bold.md](references/styles/linocut-bold.md).
+- `neon-future`: A 2:3 futuristic night poster using controlled neon accents, atmospheric depth, and credible photographic structure. Read [references/styles/neon-future.md](references/styles/neon-future.md).
 
 ## Shared workflow
 

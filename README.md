@@ -1,6 +1,6 @@
 # Photo Poster Studio
 
-A reusable Codex Skill that turns each source photograph into a separate, art-directed poster. It includes six named styles, automatic style recommendations, per-style acceptance checks, and a workflow that protects subject identity and source order.
+A reusable Codex Skill that turns each source photograph into a separate, art-directed poster. It includes twelve named styles, automatic style recommendations, per-style acceptance checks, and a workflow that protects subject identity and source order.
 
 ## Style catalog
 
@@ -12,6 +12,12 @@ A reusable Codex Skill that turns each source photograph into a separate, art-di
 | `risograph-pulse` | Music, events, youth culture, retro themes | 3:4 | Two or three inks, halftones, paper grain, print energy |
 | `paper-cut-diary` | Family, pets, food, crafts, personal memories | 4:5 | Photo window, cut paper, tape, warm handwritten details |
 | `museum-archive` | Artworks, objects, documentary and historical photos | 3:4 | Exhibition margins, catalog labels, archival restraint |
+| `pixel-game-poster` | Games, avatars, pets, objects, retro scenes | 4:5 | 8-bit, 16-bit, isometric, or RPG-interface pixel art |
+| `manga-screentone` | Action, expressive portraits, comic drama | 3:4 | Black ink, screentones, motion, sharp framing |
+| `clay-diorama` | Characters, food, pets, playful objects | 4:5 | Handmade clay, miniature staging, tactile light |
+| `modern-ink-wash` | Landscapes, botanicals, quiet portraits | 3:4 | Brush economy, rice-paper space, restrained color |
+| `linocut-bold` | Music, folk, protest, high-contrast portraits | 3:4 | Carved marks, strong silhouettes, flat relief inks |
+| `neon-future` | Night cities, technology, vehicles, performance | 2:3 | Controlled neon, haze, reflective depth, future mood |
 
 ## Usage
 
@@ -33,7 +39,7 @@ Add substantial styles as separate files under `references/styles/`, then regist
 
 # 照片海报工作室
 
-这是一个可复用的 Codex Skill，可把每张原始照片分别制作成经过艺术指导的海报。当前包含 6 种命名风格、自动风格推荐、逐风格验收标准，并在处理过程中保护人物身份、照片内容和输入顺序。
+这是一个可复用的 Codex Skill，可把每张原始照片分别制作成经过艺术指导的海报。当前包含 12 种命名风格、自动风格推荐、逐风格验收标准，并在处理过程中保护人物身份、照片内容和输入顺序。
 
 ## 风格目录
 
@@ -45,6 +51,12 @@ Add substantial styles as separate files under `references/styles/`, then regist
 | `risograph-pulse` | 音乐、活动、青年文化、复古主题 | 3:4 | 两至三色油墨、网点、纸张颗粒、印刷张力 |
 | `paper-cut-diary` | 家庭、宠物、美食、手作、私人回忆 | 4:5 | 照片窗口、剪纸、胶带、温暖手写细节 |
 | `museum-archive` | 艺术品、物件、纪实与历史照片 | 3:4 | 展览留白、馆藏标签、档案气质 |
+| `pixel-game-poster` | 游戏、头像、宠物、物件、复古场景 | 4:5 | 8-bit、16-bit、等距像素或 RPG 界面 |
+| `manga-screentone` | 动作、情绪人像、漫画戏剧感 | 3:4 | 黑白墨线、网点、动态线、锐利取景 |
+| `clay-diorama` | 人物、美食、宠物、趣味物件 | 4:5 | 手工黏土、微缩布景、柔和触感光线 |
+| `modern-ink-wash` | 山水、植物、安静人像 | 3:4 | 节制笔触、宣纸留白、克制设色 |
+| `linocut-bold` | 音乐、民俗、公益、高反差人像 | 3:4 | 刀刻线条、强烈剪影、平面凸版油墨 |
+| `neon-future` | 夜景、科技、车辆、舞台表演 | 2:3 | 克制霓虹、薄雾、反射层次、未来氛围 |
 
 ## 使用方法
 
