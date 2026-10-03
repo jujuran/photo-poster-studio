@@ -1,4 +1,4 @@
 interface:
   display_name: "Photo Poster Studio"
-  short_description: "Turn photos into posters across six visual styles"
+  short_description: "Turn photos into posters across twelve visual styles"
   default_prompt: "Use $photo-poster-studio to inspect my uploaded photos, recommend a suitable style, and create a separate poster for each image."
